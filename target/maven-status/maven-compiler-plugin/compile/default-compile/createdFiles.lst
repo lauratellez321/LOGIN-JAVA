@@ -1,0 +1,8 @@
+com/app/login/repository/UserRepository.class
+com/app/login/entity/User.class
+com/app/login/config/SecurityConfig.class
+com/app/login/service/impl/UserDetailsServiceImpl.class
+com/app/login/controller/Controller.class
+com/app/login/entity/SecurityUser.class
+com/app/login/controller/Home.class
+com/app/login/LoginApplication.class
