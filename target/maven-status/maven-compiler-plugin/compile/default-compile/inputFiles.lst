@@ -1,3 +1,8 @@
 /Users/valentina/Documents/DEVELOP/JAVA/LOGIN-JAVA/src/main/java/com/app/login/LoginApplication.java
+/Users/valentina/Documents/DEVELOP/JAVA/LOGIN-JAVA/src/main/java/com/app/login/config/SecurityConfig.java
 /Users/valentina/Documents/DEVELOP/JAVA/LOGIN-JAVA/src/main/java/com/app/login/controller/Controller.java
 /Users/valentina/Documents/DEVELOP/JAVA/LOGIN-JAVA/src/main/java/com/app/login/controller/Home.java
+/Users/valentina/Documents/DEVELOP/JAVA/LOGIN-JAVA/src/main/java/com/app/login/entity/SecurityUser.java
+/Users/valentina/Documents/DEVELOP/JAVA/LOGIN-JAVA/src/main/java/com/app/login/entity/User.java
+/Users/valentina/Documents/DEVELOP/JAVA/LOGIN-JAVA/src/main/java/com/app/login/repository/UserRepository.java
+/Users/valentina/Documents/DEVELOP/JAVA/LOGIN-JAVA/src/main/java/com/app/login/service/impl/UserDetailsServiceImpl.java
